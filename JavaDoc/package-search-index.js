@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.uniza.fri"},{"l":"sk.uniza.fri.defaultTriedy"},{"l":"sk.uniza.fri.hra"},{"l":"sk.uniza.fri.hratelnyObjekt"},{"l":"sk.uniza.fri.okoloiduceObjekty"},{"l":"sk.uniza.fri.prostredie"},{"l":"sk.uniza.fri.rozhranie"},{"l":"sk.uniza.fri.ui"}];updateSearchResults();

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SemetralnaPraca_Race:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SemetralnaPraca_Race_jar</output-path>
+    <root id="archive" name="SemetralnaPraca_Race.jar">
+      <element id="module-output" name="SemetralnaPraca_Race" />
+    </root>
+  </artifact>
+</component>
